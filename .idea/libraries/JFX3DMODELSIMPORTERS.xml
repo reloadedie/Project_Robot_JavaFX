@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="JFX3DMODELSIMPORTERS">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../JFX3DMODELSIMPORTERS" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../JFX3DMODELSIMPORTERS/apidoc" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../JFX3DMODELSIMPORTERS" recursive="false" />
+  </library>
+</component>
